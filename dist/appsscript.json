@@ -1,0 +1,17 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Analyticsreporting",
+        "serviceId": "analyticsreporting",
+        "version": "v4"
+      }
+    ]
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/analytics",
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "exceptionLogging": "STACKDRIVER"
+}
