@@ -4,11 +4,11 @@
   "description": "GAS & clasp & TypeScript で Slack メッセージを自動送信するサンプルコード",
   "main": "index.js",
   "dependencies": {
-    "@types/google-apps-script": "0.0.58"
+    "@types/google-apps-script": "^1.0.12"
   },
   "devDependencies": {
-    "@google/clasp": "^2.2.1",
-    "tslint": "^5.19.0"
+    "@google/clasp": "^2.3.0",
+    "tslint": "^6.1.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
